@@ -1,8 +1,7 @@
 #Stout
-===============
 Stout is a simple Jekyll based theme which is easy to customize with your own posts.
 
-##To run as is
+##To run as is :
 
 - Install Jekyll
 - [Fork this repository](https://github.com/jasti/stout/fork)
@@ -16,7 +15,7 @@ Stout is a simple Jekyll based theme which is easy to customize with your own po
 - apple-touch-icon.png
 - CNAME
 
-##Deployment and other good stuff, read my post about it
+##Deployment and other good stuff:
 - [Blog](http://vamseejasti.com/posts/blog)
 
 ##Licensing
