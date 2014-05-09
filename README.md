@@ -8,12 +8,13 @@ Stout is a simple Jekyll based theme which is easy to customize with your own po
 - Clone it: `git clone https://github.com/YOUR-USER/stout`
 - Run the jekyll server: `jekyll serve -w`
 
-##Things you should change :
+##Files you should change :
 
 - _config.yml
 - favicon.ico
 - apple-touch-icon.png
 - CNAME
+- layout.html
 
 ##Deployment and other good stuff:
 - [Blog](http://vamseejasti.com/posts/blog)
